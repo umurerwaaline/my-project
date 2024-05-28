@@ -1,0 +1,100 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.banner{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(90.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.form{
+  width: 200px;
+  height: 370px;
+  align-items: center;
+  padding-left:50px ;
+  padding-right: 40px;
+  border-radius: 20px;
+  margin: 500px;
+  background-color: transparent;
+  margin: 100PX;
+  position: absolute;
+  margin-left: 500px;
+  border-radius:10px;
+  padding-bottom: 100px;
+  padding-top: 20px;
+  box-shadow: 2px 2px 5px 5px black;
+  color: white;
+
+}
+.link{
+   color: white;
+   padding-left: 19px;
+   padding-top: 12px;
+   text-align: center;
+}
+.form h2{
+   width: 220px;
+   font-family: bold;
+   align-items: center;
+   color :white;
+   font-size: 22PX;
+   text-align: center;
+
+}
+.ali{
+   color: white;
+   padding-left: 18px;
+   padding-top: 10px;
+   padding-top:20px ;
+   text-align: center;
+}
+.form input{
+   width: 200px;
+   height: 35px;
+   background: transparent;
+   padding-bottom: 1px solid ;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   text-align: absolute;  
+   letter-spacing: 1px;
+   margin-top: 30px;
+   font-family: sans-serif;
+   padding-left: 10px;
+   border-bottom: 2px solid white;
+   color: white;
+   
+
+
+}
+.btn{
+   width: 230px;
+   height: 30px;
+   background-color:skyblue;
+   align-items: center;
+   color: white;
+   font-weight: bold;
+   font-family: sans-serif;
+   margin-top: 50px;
+   text-decoration: none;
+}
+.btn a{
+	color: white;
+   margin-right: 10px;
+}
+.hh a{
+   color: white;
+   font-weight: bold;
+   font-size: 17px;
+
+}
+	color:skyblue;
+
+}
+
+
+}
